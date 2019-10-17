@@ -1,0 +1,30 @@
+1.
+
+
+English:
+
+For loop to store the values of array X into array Y
+no clue what add r5, r0, r0 does
+
+
+C:
+
+int N = 6;
+int X[N] = {5,3,-6,19,8,12};
+int Y[N] = {0,0,0,0,0,0};
+
+int r5 = 0; ???
+
+for (N, N>0, N--){
+	Y[6-N] = X[6-N];
+}
+
+----------------------------------------------------
+2.
+
+stw r4, -28(r19)
+
+-----------------------------------------------------
+3.
+
+0x2D9D203A
