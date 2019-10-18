@@ -1,5 +1,7 @@
 .global _start
 
+# refer to button.s one folder up for a similar program for comments
+
 _start:
 
     movia       r2, 0xff200020  # HEX addr
