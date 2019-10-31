@@ -1,0 +1,6 @@
+Part 2.1:
+tenlettersA+
+
+Part 2.2:
+STUDENT_NAME_LEN:   .word   0x10
+STUDENT_NAME:       .ascii  "\x45\x72\x69\x63\x45\x72\x69\x63\x45\x72\x69\x63\xcc\x00\x00\x00"
